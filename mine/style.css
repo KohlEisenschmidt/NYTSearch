@@ -1,0 +1,19 @@
+* {
+    /* margin-bottom: 50px;
+    margin-top: 50px; */
+    color: blue
+}
+#containter {
+
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+    font-size: 18px; 
+    /* width: 960px; */
+    /* background-color: orange; */
+    /* box-sizing: border-box; */
+    text-align: center;
+};
+.jdisplay-4 {
+    text-align: center;
+}
